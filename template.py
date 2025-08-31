@@ -22,7 +22,7 @@ list_of_files = [
     "src/utils/__init__.py",   # Marks "utils" as a Python package
 
     "src/logger/logging.py",   # Centralized logging configuration
-    "src/exceptions/exceptions",   # Custom exception handling for better debugging
+    "src/exception/exception.py",   # Custom exception handling for better debugging
 
     # ---------------- Testing ----------------
     "tests/unit/__init__.py",   # Marks "unit" test folder as a package (unit tests for individual components)
